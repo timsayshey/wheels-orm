@@ -11,7 +11,7 @@ Initially I just want to get it working with Coldbox and FW/1 for 1.0 then make 
 
 ## Goals
 
-* v0.1 - Still coupled with Wheels framework but most has been stripped away and it still works!
+* v0.1 - Still coupled with Wheels framework but most has been stripped away and it still works! ✅
 * v0.2 - Remove remaining unneccessary wheels methods
 * v0.3 - move models, cache, etc. into it's own application scope, separate from application.wheels
 * v1.0 - Add simple config file and test dropping it into a FW/1 and Coldbox application (Will probably need to change function naming to prevent collisions)
