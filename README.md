@@ -18,7 +18,8 @@ To get it working just edit the datasource in the Application.cfc and called the
 * v0.1 - Still coupled with Wheels framework but most has been stripped away
 * v0.2 - Remove remaining unneccessary wheels methods
 * v0.3 - move models, cache, etc. into it's own application scope, separate from application.wheels
-* v0.4 - Add simple config file and test dropping it into a FW/1 and Coldbox application (Will probably need to change function naming to prevent collisions)
+* v1.0 - Add simple config file and test dropping it into a FW/1 and Coldbox application (Will probably need to change function naming to prevent collisions)
+* v2.0 - Remove models from Wheels and switch the core over to rely on WheelsORM
 
 ## Contribute
 
